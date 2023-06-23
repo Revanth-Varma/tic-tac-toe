@@ -3,7 +3,7 @@ import "./board.css";
 
 const Board = (props)=>{
 
-    const {currPlayer, board, winner, winningCells, handleCellClick} = props;
+    const {board, winningCells, handleCellClick} = props;
     return <div className="board">
         {
             board.map((cellValue,ind)=>{
