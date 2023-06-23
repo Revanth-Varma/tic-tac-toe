@@ -1,0 +1,42 @@
+.game-container{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 30px 20px;
+    box-shadow: 0 0 10px black ;
+    background-color: #9900F0;
+    min-width: 25%;
+}
+.title{
+    color: #ffe;
+    font-size: 40px;
+    font-weight: 1000;
+    text-shadow: 1px 1px 5px rgb(52, 16, 54);
+}
+span{
+    color: #F900BF;
+}
+p{
+    text-shadow: 0 0 3px rgb(94, 88, 96);
+    letter-spacing: 1px;
+}
+
+.rst-btn{
+    background-color: #9AB3F5;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 20px;
+    width:30%;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 0 5px black;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+.rst-btn:hover{
+    background-color: #6888E6;
+    /* transform: translateY(-3px); */
+    transform: scale(1.1);
+}
