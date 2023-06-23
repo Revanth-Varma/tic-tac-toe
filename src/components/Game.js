@@ -47,7 +47,7 @@ const Game = ()=>{
             winner?winner==="Draw"?<p>It's a Draw!</p>:winner==="X"?<p>Player 1 Wins!</p>:<p>Player 2 Wins</p>:<p>Current Player : <span>'{currentPlayer}'</span></p>
         }
         </div>
-        <Board currPlayer={currentPlayer} board={board} winningCells={winningCells} winner={winner} handleCellClick={handleClick}/>
+        <Board board={board} winningCells={winningCells} handleCellClick={handleClick}/>
         <div>
             <button className="rst-btn" onClick={handleReset}>Reset</button>
         </div>
