@@ -1,5 +1,5 @@
-# Game Link : \
-<a href="https://re1th-tic-tac-toe.netlify.app/">Let's Play</a>
+# Click Here to Play : 
+<a href="https://re1th-tic-tac-toe.netlify.app/">Click Here to Play</a>
 
 # Getting Started with Create React App
 
