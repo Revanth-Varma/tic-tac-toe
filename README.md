@@ -1,3 +1,6 @@
+# To Play : 
+<a href="https://re1th-tic-tac-toe.netlify.app/">Click Me </a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
