@@ -1,4 +1,4 @@
-# Click Here to Play : 
+# Let's Play : 
 <a href="https://re1th-tic-tac-toe.netlify.app/">Click Here to Play</a>
 
 # Getting Started with Create React App
